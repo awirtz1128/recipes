@@ -4,7 +4,6 @@ chef,Chef,
 date,Date Created,
 description,Description,
 subject,Dish,true
-subject, Type of dish, true
 location,Location
 latitude,Latitude
 longitude,Longitude
