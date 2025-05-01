@@ -1,21 +1,16 @@
 field,display_name,browse_link,external_link
 title,Title,
 chef,Chef,
+contributor, Contributor,
 date,Date Created,
-description,Description,
-subject,Dish,true
-location,Location
-latitude,Latitude
-longitude,Longitude
+subject, Type of Dish,true,
+main ingredients, Main ingredients
 source,Source
 identifier,Source Identifier,,
 type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
-contributor, Contributor,
-course, Course,
-type of dish, Type of dish,
-ingredients, Ingredients,
 servings, Servings,
 dimensions, Dimensions,
+fileszie, Filesize
+filedate, Filedate
+format,Format,
+rights,Rights,
