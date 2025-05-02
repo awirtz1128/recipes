@@ -10,6 +10,7 @@ identifier,Source Identifier,,
 type,Type,
 servings, Servings,
 dimensions, Dimensions,
+filename, Filename
 filesize, Filesize
 filedate, Filedate
 format,Format,
