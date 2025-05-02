@@ -1,9 +1,9 @@
 color_class,color
-primary, blue  
-secondary, blue
-success, 586994
-info, CEEAF7
-warning,
-danger,
-light,
-dark,
+primary, #2facd6   
+secondary, #2facd6  
+success, #2facd6 
+info, #2facd6 
+warning, #2facd6 
+danger, #2facd6 
+light, #2facd6 
+dark, #2facd6 
