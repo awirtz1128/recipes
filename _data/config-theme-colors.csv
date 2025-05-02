@@ -1,8 +1,8 @@
 color_class,color
-primary, 586994  
-secondary, CEEAF7
-success,
-info,
+primary, blue  
+secondary, blue
+success, 586994
+info, CEEAF7
 warning,
 danger,
 light,
