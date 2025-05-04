@@ -14,12 +14,8 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This is a collection of family recipes from Judy Girres' kitchen. This collection is a way to preserve Judy's recipes as well as all the memories that come along with her cooking. This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) This collection includes: 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+- 15 recipes
+- a CSV of collection metadata 
 
