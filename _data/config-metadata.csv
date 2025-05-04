@@ -4,7 +4,7 @@ chef,Chef,
 contributor, Contributor,
 date,Date Created,
 subject, Type of Dish,true,
-main ingredients, Main ingredients
+ingredients, Ingredients
 source,Source
 identifier,Source Identifier,,
 type,Type,
